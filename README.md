@@ -34,7 +34,3 @@ Navigate to http://localhost:4200/. The app will automatically reload if you cha
 * `npm run lint`
 * `npm run test`
 * `npm run e2e`
-
-### Prototype Bootstrap
-* `change directory` cd ui
-* launch html pages in your browser
