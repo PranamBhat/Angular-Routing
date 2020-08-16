@@ -6,6 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'angular-starter';
-  version = 'Angular version 10.0.8';
+  title = 'Angular Routing';
+  version = 'Angular Version 10.0.8';
 }
